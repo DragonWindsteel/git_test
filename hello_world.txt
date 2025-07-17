@@ -1,0 +1,2 @@
+Yay hello world
+this is from wsl and cmd
